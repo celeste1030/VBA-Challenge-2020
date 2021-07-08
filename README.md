@@ -1,5 +1,9 @@
 # VBA-Challenge-2020
 VBA Challenge
+
+## About
+This is a coding practice assignment completed during my data science training.
+
 ## Instructions
 
 * Create a script that will loop through all the stocks for one year and output the following information.
