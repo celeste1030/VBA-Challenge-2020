@@ -26,4 +26,4 @@ This is a coding practice assignment completed during my data science training.
 
 ## Results
 
-![2016](2016 StockData.png)
+![2016]("2016 StockData.png")
