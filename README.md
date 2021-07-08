@@ -26,6 +26,8 @@ This is a coding practice assignment completed during my data science training.
 
 ## Results
 
+link to VBA script: ![vba](vbacode.vbs)
+
 ### 2014:
 
 ![2014](2014StockData.png)
