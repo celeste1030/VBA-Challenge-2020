@@ -32,7 +32,7 @@ This is a coding practice assignment completed during my data science training.
 
 * Make sure that the script acts the same on each sheet. The joy of VBA is to take the tediousness out of repetitive task and run over and over again with a click of the button.
 
-## Submission
+## Results
 
 * To submit please upload the following to Github:
 
