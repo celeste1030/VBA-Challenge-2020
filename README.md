@@ -6,7 +6,7 @@ This is a coding practice assignment completed during my data science training.
 
 ## Instructions
 
-* Create a script that will loop through all the stocks for one year and output the following information.
+### Create a script that will loop through all the stocks for one year and output the following information.
 
   * The ticker symbol.
 
@@ -16,13 +16,9 @@ This is a coding practice assignment completed during my data science training.
 
   * The total stock volume of the stock.
 
-* You should also have conditional formatting that will highlight positive change in green and negative change in red.
+  * You should also have conditional formatting that will highlight positive change in green and negative change in red.
 
-* The result should look as follows.
-
-![moderate_solution](Images/moderate_solution.png)
-
-### CHALLENGES
+## Challenges
 
 1. Your solution will also be able to return the stock with the "Greatest % increase", "Greatest % decrease" and "Greatest total volume". The solution will look as follows:
 
