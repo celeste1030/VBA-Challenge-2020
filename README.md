@@ -26,6 +26,14 @@ This is a coding practice assignment completed during my data science training.
 
 ## Results
 
+### 2014:
+
 ![2014](2014StockData.png)
+
+### 2015:
+
 ![2015](2015StockData.png)
+
+### 2016:
+
 ![2016](2016StockData.png)
