@@ -26,7 +26,7 @@ This is a coding practice assignment completed during my data science training.
 
 ## Results
 
-link to [VBA script](vbacode.vbs)
+Link to [VBA script](vbacode.vbs)
 
 ### 2014:
 
