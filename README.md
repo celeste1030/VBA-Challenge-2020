@@ -26,12 +26,4 @@ This is a coding practice assignment completed during my data science training.
 
 ## Results
 
-* To submit please upload the following to Github:
-
-  * A screen shot for each year of your results on the Multi Year Stock Data.
-
-  * VBA Scripts as separate files.
-
-* Ensure your repository has regular commits (i.e. 20+ commits), a thorough README.md file
-
-* After everything has been saved, create a sharable link and submit that to <https://bootcampspot-v2.com/>.
+![2016](2016 StockData.png)
